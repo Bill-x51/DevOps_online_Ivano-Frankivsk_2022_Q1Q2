@@ -1,0 +1,1 @@
+# DevOps_online_Ivano-Frankivsk_2022_Q1Q2
