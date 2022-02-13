@@ -1,0 +1,13 @@
+b487a33 HEAD@{0}: merge develop: Fast-forward
+5cb1815 HEAD@{1}: checkout: moving from develop to main
+b487a33 HEAD@{2}: commit: co to main
+9930177 HEAD@{3}: merge styles: Fast-forward
+c9aba6e HEAD@{4}: merge images: Fast-forward
+e5b4d97 HEAD@{5}: checkout: moving from styles to develop
+9930177 HEAD@{6}: commit: add styles
+c9aba6e HEAD@{7}: checkout: moving from images to styles
+c9aba6e HEAD@{8}: commit: add images
+e5b4d97 HEAD@{9}: checkout: moving from develop to images
+e5b4d97 HEAD@{10}: commit: create index.html
+5cb1815 HEAD@{11}: checkout: moving from main to develop
+5cb1815 HEAD@{12}: clone: from https://github.com/Bill-x51/DevOps_online_Ivano-Frankivsk_2022_Q1Q2.git
